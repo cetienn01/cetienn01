@@ -2,7 +2,7 @@
 
 I'm **Chris**. I work at the intersection of **Immuno-Biology** 🧫 and **Data Science** 👨🏿‍💻
 - 🔭 I’m currently learning more about **AI** and **ML** 🚀  🤖
-- 💬  Ask me about **Immuno-Oncology** research
+- 💬  Ask me about **Immuno-Oncology** research🔬 and **Social Justice** issues 💡
 - 📫  You can reach me at **cetienn01@gmail.com**
 
 <!--
