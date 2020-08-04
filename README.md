@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! 👋🏿
 
 I'm **Chris**. I work at the intersection of **Immuno-Biology** 🧫 and **Data Science** 👨🏿‍💻
 - 🔭 I’m currently learning more about **AI** and **ML** 🚀  🤖
