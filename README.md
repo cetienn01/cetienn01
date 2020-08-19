@@ -1,5 +1,5 @@
 ### Hi there! 👋🏿
-✨ I'm **Chris** ✨ . I am multidisciplinary scientist working at the intersection of **Chemistry**, **Biology** 🧫 and **Data Science** 👨🏿‍💻
+✨ I'm **Chris** ✨ . I am multidisciplinary scientist working at the intersection of **Chemistry** ⚗️, **Biology** 🧫 , and **Data Science** 👨🏿‍💻
 
 - 🗝 I’m currently working on identifying novel **Targets** and **Biomarkers** in **Hematological Malignancies** and **Solid Tumors**
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning and **Machine Learning** 🤖
