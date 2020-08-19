@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning** and **Machine Learning** 🤖
 - 💬 Ask me about **Immunology** 🧬, **Oncology**🔬 and **Social Justice** 💡
 - I’m looking to collaborate on **Bioinformatics** research projects
-- 🤔 I’m thinking about novel approaches to **Drug Discovery**
+- 🤔 I’m thinking about novel approaches to **Drug Discovery** and **Targeted Therapy**
 - I am about passionate about **STEM education**
 - 📫  You can connect with me directly at : **cetienn01@gmail.com**
 
