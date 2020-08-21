@@ -11,7 +11,7 @@
 
 ### Computational Research Interests
 - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
-- applying computational methods to study biological processes such as protein-protein interaction to understand the cell permeability and oral bioavailability of macrocyclic drugs.
+- applying computational methods to study biological processes such as protein-protein interaction and protein-ligand binding to design the next generation of cell permeable and orally bioavailable macrocyclic drugs.
 - implementing machine learning algorithms to support classification and prediction of clinical outcomes using molecular features
 
 <!--
