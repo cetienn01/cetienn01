@@ -1,3 +1,7 @@
+<!--
+**cetienn01/cetienn01** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ### Hi there! 👋🏿
 ✨ I'm **Chris** ✨ . I am **multidisciplinary** scientist working at the intersection of **`Chemistry`** ⚗️, **`Biology`** 🧫 , and **`Data Science`** 👨🏿‍💻
 
@@ -18,11 +22,3 @@
 - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
 - applying computational methods to study biological processes such as protein-protein interaction and protein-ligand binding to design the next generation of cell permeable and orally bioavailable macrocyclic drugs.
 - implementing machine learning algorithms to support classification and prediction of clinical outcomes using molecular features
-
-<!--
-**cetienn01/cetienn01** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🤔 I’m looking for help with ...
--  Fun fact: ...
--->
-(
