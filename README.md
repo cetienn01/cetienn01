@@ -33,7 +33,7 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
 - 🤝 I’m looking to collaborate on interesting **Bioinformatics** or **Cheminformatics** research projects
 - 🤔 I’m thinking about novel approaches to **Drug Discovery** 💊 and **Targeted Therapy** ⚡
 - I am passionate about **STEM Education** 📚 and **Social Justice** 💡
-- 📫  You can connect with me directly at one of the platforms below :
+- 📫  You can connect with me directly at one of the platforms listed above ⬆️
 
 <!--
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
