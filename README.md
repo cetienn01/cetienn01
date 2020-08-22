@@ -84,8 +84,8 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
   <summary><strong>Laboratory Research Interests</strong></summary>
   <br>
   
-  - ...
-  - ...
+  - application of genome engineering techniques and high-throughput genetic screening methods to identify biological functions of unknown genes and novel drug targets in the context of ImmunoTherapy. 
+  - assay development and tool generation to dissect immune surveillance mechanisms and T cell signaling, and validate new immunotherapy drugs 
   - ...
   <br>
 </details>
