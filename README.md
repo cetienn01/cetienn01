@@ -1,11 +1,9 @@
 <!--
 **cetienn01/cetienn01** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-### Hi there! 👋🏿
+### Hi there! 🙋🏿‍♂️
 
 <!-- Introduction/Summary Section -->
-
 <header>
   <h1 align = center>✨ I'm Chris ✨</h1>
 </header>
@@ -57,13 +55,16 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
   -->
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/atom_io/atom_io-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 </p>
 
 <hr>
