@@ -44,6 +44,8 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black)](https://github.com/cetienn01)
 -->
 
+<hr>
+
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true">
      <img width="45%" align="right" alt="Chris Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true" />
@@ -55,7 +57,7 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
   -->
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -63,6 +65,8 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
+
+<hr>
 
 <!-- Work / Research Section -->
 <details>
