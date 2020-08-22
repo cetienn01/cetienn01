@@ -4,6 +4,7 @@
 
 ### Hi there! 👋🏿
 ✨ I'm **Chris** ✨ . I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
+<hr>
 
 - 🗝 I’m currently working on identifying novel **Targets** 🎯 and **Biomarkers** in **Hematological Malignancies** and **Solid Tumors**
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning** and **Machine Learning** 🤖
@@ -13,13 +14,33 @@
 - I am passionate about **STEM Education** 📚 and **Social Justice** 💡
 - 📫  You can connect with me directly at one of the platforms below :
 
+<!--
+- website to create badge : https://shields.io/
+- very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
+--->
+
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne)](https://twitter.com/iamchrisetienne)
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black)](https://github.com/cetienn01)
 
-### Computational Research Interests
-- developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
-- applying computational methods to study biological processes such as protein-protein interaction and protein-ligand binding to design the next generation of cell permeable and orally bioavailable macrocyclic drugs.
-- implementing machine learning algorithms to support classification and prediction of clinical outcomes using molecular features
+<details>
+  <summary><strong>Computational Research Interests</strong></summary>
+  <br>
+  
+  - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
+  - applying computational methods to study biological processes such as protein-protein interaction and protein-ligand binding to design the next generation of cell permeable and orally bioavailable macrocyclic drugs.
+  - implementing machine learning algorithms to support classification and prediction of clinical outcomes using molecular features
+  <br>
+</details>
+
+<details>
+  <summary><strong>Laboratory Research Interests</strong></summary>
+  <br>
+  
+  - ...
+  - ...
+  - ...
+  <br>
+</details>
