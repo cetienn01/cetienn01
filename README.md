@@ -9,7 +9,7 @@
 - I am passionate about **STEM Education** 📚 and **Social Justice** 💡
 - 📫  You can connect with me directly at one of the platforms below :
 
-![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne)
+[![Twitter URL]](https://img.shields.io/twitter/url?label=Twitter&style=social)](https://twitter.com/iamchrisetienne)
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -  Fun fact: ...
 -->
+(
