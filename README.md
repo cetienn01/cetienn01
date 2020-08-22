@@ -7,7 +7,22 @@
 <!-- Introduction/Summary Section -->
 ✨ I'm **Chris** ✨
 --
+<hr>
+
 I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
+
+<!--
+- website to create badge : https://shields.io/
+- very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
+-->
+
+<p align="center">
+  <a href="https://twitter.com/iamchrisetienne"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne" alt="Twitter"></a>
+  <a href="www.linkedin.com/in/christian-etienne"><img src="http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://medium.com/@cetienn01"><img src="https://img.shields.io/badge/Medium-black?style=flatl&logo=medium" alt="Medium"></a>
+  <a href="https://github.com/cetienn01"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black" alt="GitHub"></a>
+  <a href="mailto:cetienn01@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com" alt="Gmail"></a>
+</p>
 <hr>
 
 <!-- Activities/Interests Section -->
@@ -20,25 +35,22 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
 - 📫  You can connect with me directly at one of the platforms below :
 
 <!--
-- website to create badge : https://shields.io/
-- very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
--->
-
-[![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne)](https://twitter.com/iamchrisetienne)
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
-[![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black)](https://github.com/cetienn01)
-
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black)](https://github.com/cetienn01)
+-->
 
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true">
      <img width="45%" align="right" alt="Chris Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true" />
   </a>
   
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  <!-- Programming Languages and Computational tools.
+  **Be careful with the alignment.**
+  You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
+  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <br />
