@@ -7,7 +7,12 @@
 - 🤝 I’m looking to collaborate on interesting **Bioinformatics** or **Cheminformatics** research projects
 - 🤔 I’m thinking about novel approaches to **Drug Discovery** 💊 and **Targeted Therapy** ⚡
 - I am passionate about **STEM Education** 📚 and **Social Justice** 💡
-- 📫  You can connect with me directly at : **cetienn01@gmail.com**
+- 📫  You can connect with me directly at one of the platforms below :
+
+![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne)
+[![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
+[![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
 
 ### Computational Research Interests
 - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
