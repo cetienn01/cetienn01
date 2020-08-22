@@ -23,7 +23,7 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
   <a href="https://medium.com/@cetienn01"><img src="https://img.shields.io/badge/Medium-black?style=flatl&logo=medium" alt="Medium"></a>
   <a href="https://github.com/cetienn01"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black" alt="GitHub"></a>
   <a href="mailto:cetienn01@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com" alt="Gmail"></a>
-  <a href="cetienn01.github.io"><img src="https://img.icons8.com/doodle/30/000000/internet--v1.png" alt="Chris Etienne's Website"></a>
+  <a href="https://cetienn01.github.io/"><img src="https://img.icons8.com/doodle/30/000000/internet--v1.png" alt="Chris Etienne's Website"></a>
 </p>
 <hr>
 
