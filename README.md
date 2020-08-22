@@ -5,8 +5,11 @@
 ### Hi there! 👋🏿
 
 <!-- Introduction/Summary Section -->
-✨ I'm **Chris** ✨
---
+
+<header>
+  <h1 align = center>✨ I'm Chris ✨</h1>
+</header>
+
 <hr>
 
 I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
