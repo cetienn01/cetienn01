@@ -3,7 +3,7 @@
 -->
 
 ### Hi there! 👋🏿
-✨ I'm **Chris** ✨ . I am **multidisciplinary** scientist working at the intersection of **`Chemistry`** ⚗️, **`Biology`** 🧫 , and **`Data Science`** 👨🏿‍💻
+✨ I'm **Chris** ✨ . I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
 
 - 🗝 I’m currently working on identifying novel **Targets** 🎯 and **Biomarkers** in **Hematological Malignancies** and **Solid Tumors**
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning** and **Machine Learning** 🤖
@@ -17,6 +17,7 @@
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
+[![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black)](https://github.com/cetienn01)
 
 ### Computational Research Interests
 - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
