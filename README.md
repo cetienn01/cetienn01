@@ -3,9 +3,14 @@
 -->
 
 ### Hi there! 👋🏿
-✨ I'm **Chris** ✨ . I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
+
+<!-- Introduction/Summary Section -->
+✨ I'm **Chris** ✨
+--
+I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
 <hr>
 
+<!-- Activities/Interests Section -->
 - 🗝 I’m currently working on identifying novel **Targets** 🎯 and **Biomarkers** in **Hematological Malignancies** and **Solid Tumors**
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning** and **Machine Learning** 🤖
 - 💭 Ask me about **Immunology** 🧬, **Oncology**🔬 and **Chemical Biology**
@@ -17,7 +22,7 @@
 <!--
 - website to create badge : https://shields.io/
 - very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
---->
+-->
 
 [![Twitter](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne)](https://twitter.com/iamchrisetienne)
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
@@ -25,6 +30,26 @@
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
 [![Github](https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black)](https://github.com/cetienn01)
 
+
+<p>
+  <a href="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true">
+     <img width="45%" align="right" alt="Chris Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true" />
+  </a>
+  
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+  <br />
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
+
+<!-- Work / Research Section -->
 <details>
   <summary><strong>Computational Research Interests</strong></summary>
   <br>
