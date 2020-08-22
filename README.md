@@ -10,7 +10,7 @@
 
 <hr>
 
-I am **multidisciplinary** scientist working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
+I am **`multidisciplinary scientist`** working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
 
 <!--
 - website to create badge : https://shields.io/
@@ -37,6 +37,8 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
 - 📫  You can connect with me directly at one of the platforms listed above ⬆️
 
 <!--
+**another option for creating badge for this GitHub markdown**
+--
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com)](mailto:cetienn01@gmail.com)
@@ -55,6 +57,7 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
   You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
   -->
   
+  ### Selected Programming Tools
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="7.5%" src="https://www.vectorlogo.zone/logos/r-project/r-project-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
