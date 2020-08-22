@@ -16,9 +16,6 @@ I am **multidisciplinary** scientist working at the intersection of **`Biology`*
 - very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
 -->
 
-[![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/christian-etienne/"><img src="http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://twitter.com/iamchrisetienne"><img src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Fiamchrisetienne" alt="Twitter"></a>
