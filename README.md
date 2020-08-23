@@ -4,15 +4,13 @@
 ### Hi there! 🙋🏿‍♂️
 
 <!-- Introduction/Summary Section -->
-<header>
-  <h1 align = center>✨ I'm Chris ✨</h1>
-</header>
 
+<h1 align = center>✨ I'm Chris ✨</h1>
 <hr>
 
 I am **`multidisciplinary scientist`** working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
 
-<!--
+<!-- **Badges**
 - website to create badge : https://shields.io/
 - very nice tutorial to create badge : https://medium.com/@therafamartins/make-your-customized-badges-in-a-few-minutes-18e75475e271
 -->
@@ -47,15 +45,19 @@ I am **`multidisciplinary scientist`** working at the intersection of **`Biology
 
 <hr>
 
+<!-- **GitHub README Stats**
+- Checkout this repo for details : https://github.com/anuraghazra/github-readme-stats
+-->
+
 <p>
   <a href="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true">
      <img width="45%" align="right" alt="Chris Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true" />
   </a>
   
-  <!-- Programming Languages and Computational tools.
-  **Be careful with the alignment.**
-  You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
+<!-- Programming Languages and Computational Tools Section.
+**Be careful with the alignment.**
+You can use these sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+-->
   
   ### Selected Programming Tools
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
