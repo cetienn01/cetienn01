@@ -80,7 +80,7 @@ You can use these sites to get logos: https://www.vectorlogo.zone or https://sim
 
 <!-- Work / Research Section -->
 <details>
-  <summary><h2><strong><img src="https://img.icons8.com/plasticine/30/000000/test-tube.png" alt="flask"/>Computational Research Interests </strong></h1></summary>
+  <summary><strong>Computational Research Interests </strong></summary>
   <br>
   
   - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
