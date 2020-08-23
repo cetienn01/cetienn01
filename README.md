@@ -21,14 +21,14 @@ I am a **`multidisciplinary scientist`** working at the intersection of **`Biolo
   <a href="https://medium.com/@cetienn01"><img src="https://img.shields.io/badge/Medium-black?style=flatl&logo=medium" alt="Medium"></a> º
   <a href="https://github.com/cetienn01"><img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=Github&labelColor=white&logoColor=Black" alt="GitHub"></a> º
   <a href="mailto:cetienn01@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&labelColor=white&link=mailto:cetienn01@gmail.com" alt="Gmail"></a> º
-  <a href="https://cetienn01.github.io/"><img src="https://img.icons8.com/doodle/25/000000/internet--v1.png" alt="Chris Etienne's Website"></a>
+  <a href="https://cetienn01.github.io/"><img src="https://img.icons8.com/doodle/25/000000/internet--v1.png" alt="Chris Etienne's Website" ></a>
 </p>
 <hr>
 
 <!-- Activities/Interests Section -->
 - 🗝 I’m currently working on identifying novel **Targets** 🎯 and **Biomarkers** in **Hematological Malignancies** and **Solid Tumors**
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning** and **Machine Learning** 🤖
-- 💭 Ask me about **Immunology** 🧬, **Oncology**🔬 and **Chemical Biology**
+- 💭 Ask me about **Immunology** 🧬, **Oncology**🔬 and **Chemical Biology** 🧪
 - 🤝 I’m looking to collaborate on interesting **Bioinformatics** or **Cheminformatics** research projects
 - 🤔 I’m thinking about novel approaches to **Drug Discovery** 💊 and **Targeted Therapy** ⚡
 - 💯 I am passionate about **STEM Education** 📚 and **Social Justice** 💡
@@ -36,6 +36,8 @@ I am a **`multidisciplinary scientist`** working at the intersection of **`Biolo
 
 <!--
 **another option for creating badge for this GitHub markdown**
+this can be placed anywhere in the document
+- caveat : will not be able to align this section using html tags (hence: use the method above)
 --
 [![LinkedIn](http://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/christian-etienne/)
 [![Medium](https://img.shields.io/badge/Medium-black?style=flatl&logo=medium)](https://medium.com/@cetienn01)
@@ -78,7 +80,7 @@ You can use these sites to get logos: https://www.vectorlogo.zone or https://sim
 
 <!-- Work / Research Section -->
 <details>
-  <summary><strong>Computational Research Interests</strong></summary>
+  <summary><h2><strong><img src="https://img.icons8.com/plasticine/30/000000/test-tube.png" alt="flask"/>Computational Research Interests </strong></h1></summary>
   <br>
   
   - developing novel bioinformatics tools to investigate high-throughput genomics data to understand the mechanisms of diseases, with a particular interest in cancer
@@ -88,7 +90,7 @@ You can use these sites to get logos: https://www.vectorlogo.zone or https://sim
 </details>
 
 <details>
-  <summary><strong>Laboratory Research Interests</strong></summary>
+  <summary><strong>Laboratory Research Interests </strong></summary>
   <br>
   
   - application of genome engineering techniques and high-throughput genetic screening methods to identify biological functions of unknown genes and novel drug targets in the context of ImmunoTherapy. 
