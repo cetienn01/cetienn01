@@ -26,7 +26,7 @@ I am a **`multidisciplinary scientist`** working at the intersection of **`Biolo
 <hr>
 
 <!-- Activities/Interests Section -->
-- 🗝 I’m currently working on identifying novel **Targets** 🎯 and **Biomarkers** in **Hematological Malignancies** and **Solid Tumors**
+- 🗝 I’m currently working on identifying novel **Targets** 🎯 and **Biomarkers** 🎲 in **Hematological Malignancies** 🩸 and **Solid Tumors** 🧱
 - 🔭 I’m currently learning more about **AI** 🚀 with a focus on **Deep Learning** and **Machine Learning** 🤖
 - 💭 Ask me about **Immunology** 🧬, **Oncology**🔬 and **Chemical Biology** 🧪
 - 🤝 I’m looking to collaborate on interesting **Bioinformatics** or **Cheminformatics** research projects
