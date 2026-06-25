@@ -52,9 +52,6 @@ this can be placed anywhere in the document
 -->
 
 <p>
-  <a href="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true">
-     <img width="45%" align="right" alt="Chris Etienne's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cetienn01&show_icons=true&theme=nightowl&count_private=true" />
-  </a>
   
 <!-- Programming Languages and Computational Tools Section.
 **Be careful with the alignment.**
