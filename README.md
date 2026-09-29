@@ -8,7 +8,7 @@
 <h1 align = center>✨ I'm Chris ✨</h1>
 <hr>
 
-👨🏿‍🔬 I am a **`multidisciplinary scientist`** working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
+👨🏿‍🔬 I am a **`multidisciplinary computational scientist`** working at the intersection of **`Biology`** 🧫 , **`Chemistry`** ⚗️, and **`Data Science`** 👨🏿‍💻
 
 <!-- **Badges**
 - website to create badge : https://shields.io/
