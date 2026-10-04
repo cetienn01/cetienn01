@@ -27,7 +27,7 @@
 
 <!-- Activities/Interests Section -->
 - 🗝 I’m working on identifying novel **Targets** 🎯 and **Biomarkers** 🎲 in **Hematological Malignancies** 🩸 and **Solid Tumors** 🧱
-- 🔭 I’m currently working on independent engineering projects using **Applied AI** tools 🚀 and **Deep Learning** and **Machine Learning** algorithms 🤖
+- 🔭 I’m currently working on independent engineering projects using **Applied AI** tools 🚀 and **Deep Learning** / **Machine Learning** algorithms 🤖
 - 💭 Ask me about **Immunology** 🧬, **Oncology**🔬 and **Chemical Biology** 🧪
 - 🤝 I’m looking to collaborate on interesting **Bioinformatics** or **Cheminformatics** research projects
 - 🤔 I’m thinking about novel approaches to **Drug Discovery** 💊 and **Targeted Therapy** ⚡
